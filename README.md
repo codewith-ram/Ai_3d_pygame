@@ -1,4 +1,4 @@
-# AI-Powered 3D PyGame Visualizer (DeepSeek R1)
+# AI-Powered 3D PyGame Visualizer 
 
 A Streamlit-based project showcasing **R1's** abilities to generate and visualize PyGame code from natural language prompts. Powered by **DeepSeek** for reasoning, **OpenAI GPT-4o** for code extraction, and automated browser agents for execution and visualization via **Trinket.io**.
 
