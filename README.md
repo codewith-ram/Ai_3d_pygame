@@ -1,15 +1,6 @@
-# Ai_3d_pygame
-Alright — I checked out the GitHub repository at **codewith-ram/Ai\_3d\_pygame** and confirmed it exists, although the contents couldn’t fully load in the preview.([GitHub][1])
-
-I’ve updated the README you shared earlier to better match your GitHub structure. Here’s a revamped version, now personalized for your **codewith-ram/Ai\_3d\_pygame** repository:
-
----
-
 # AI-Powered 3D PyGame Visualizer (DeepSeek R1)
 
 A Streamlit-based project showcasing **R1's** abilities to generate and visualize PyGame code from natural language prompts. Powered by **DeepSeek** for reasoning, **OpenAI GPT-4o** for code extraction, and automated browser agents for execution and visualization via **Trinket.io**.
-
----
 
 ## Features
 
@@ -86,11 +77,3 @@ Feel free to open issues or submit pull requests to improve features like:
 ## Contact
 
 Built with ❤️ by **codewith-ram**. Got feedback or questions? Open an issue or get in touch through GitHub.
-
----
-
-Let me know if you’d like tweaks—maybe adjust the filename (e.g. if it’s named differently than `ai_3dpygame_r1.py`), or specify more advanced features or future directions such as multi-object scripting, physics integrations, or saving visual outputs!
-
-Ready for the next step?
-
-[1]: https://github.com/codewith-ram/Ai_3d_pygame "GitHub - codewith-ram/Ai_3d_pygame"
